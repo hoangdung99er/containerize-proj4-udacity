@@ -17,9 +17,10 @@ https://github.com/ScoopInstaller/Scoop
 ```
 - Install hadolint via scoop
 scoop install hadolint
+```
 - Test hadolint
 make lint
-
+```
 - Install minikube
 ```
 https://minikube.sigs.k8s.io/docs/start/
