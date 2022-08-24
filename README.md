@@ -7,10 +7,9 @@ https://docs.docker.com/engine/install/
 - Setup WSL2 environemnt for running Docker on Windows 
 https://docs.docker.com/desktop/windows/wsl/ 
 
+```
 - Test docker on terminal
-```
 docker ps  
-```
 
 ```
 - Install scoop
